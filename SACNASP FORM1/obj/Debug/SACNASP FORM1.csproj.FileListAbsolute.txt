@@ -1,0 +1,31 @@
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\bin\Debug\SACNASP FORM1.exe.config
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\bin\Debug\SACNASP FORM1.exe
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\bin\Debug\SACNASP FORM1.pdb
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.AssemblyReference.cache
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.SuggestedBindingRedirects.cache
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Form1.resources
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Properties.Resources.resources
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.GenerateResource.cache
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.CoreCompileInputs.cache
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.exe
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP FORM1.pdb
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1._2019.resources
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Overall.resources
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1.About.resources
+C:\Users\march\Documents\gritlabs\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Graph.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\bin\Debug\SACNASP FORM1.exe.config
+C:\Users\Queen\Desktop\SACNASP FORM1\bin\Debug\SACNASP FORM1.exe
+C:\Users\Queen\Desktop\SACNASP FORM1\bin\Debug\SACNASP FORM1.pdb
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.AssemblyReference.cache
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1._2019.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.About.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Form1.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Graph.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Overall.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Properties.Resources.resources
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.GenerateResource.cache
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.csproj.CoreCompileInputs.cache
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.exe
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP FORM1.pdb
+C:\Users\Queen\Desktop\SACNASP FORM1\obj\Debug\SACNASP_FORM1.Charts.resources
